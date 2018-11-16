@@ -1,6 +1,5 @@
 const env = process.env;
 
-// TO DO: Add the correct MongoDB Uri
 module.exports = {
   mongodbUri: 'mongodb://root:root2018@ds053128.mlab.com:53128/recipe_box',
   port: env.PORT || 5000,
