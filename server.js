@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const config = require('./config');
 
+
 // Routes
 const recipes = require('./api/recipes');
 
@@ -23,3 +24,5 @@ mongoose.connect(config.mongodbUri, { useNewUrlParser: true })
 app.listen(config.port, config.host, ()=>{
   console.info(`Express listening on port ${config.port}`)
 })
+
+module.exports = app;
