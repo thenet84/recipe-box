@@ -1,5 +1,5 @@
 # Recipe Box
----
+
 Full stack project for managing recipes. We can create recipes that have names and ingredients. We can also delete or edit each recipe.
 
 ![Recipe Box](./mockup/recipe-box.png)
@@ -69,8 +69,13 @@ $ npm run test
  - Refactoring
  
 ### License
-----
+
 ISC
+
+---
+
+LinkedIn: www.linkedin.com/in/deiglesias
+Twitter: @DenetIglesias
 
    [Node.js]: <http://nodejs.org>
    [express]: <http://expressjs.com>
