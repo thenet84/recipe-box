@@ -2,7 +2,7 @@
 ---
 Full stack project for managing recipes. We can create recipes that have names and ingredients. We can also delete or edit each recipe.
 
-![Recipe Box](../mockup/recipe-box.png)
+![Recipe Box](./mockup/recipe-box.png)
 
 ### Tech
 
