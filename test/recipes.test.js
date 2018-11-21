@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const chai = require('chai');
 const chaiHttp = require('chai-http');
 const server = require('../server');
-const should = chai.should();
+//const should = chai.should();
 
 //mongoose.set('useNewUrlParser', true);
 mongoose.set('useFindAndModify', false);
