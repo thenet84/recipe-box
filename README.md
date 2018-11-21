@@ -1,6 +1,6 @@
 # Recipe Box
 
-Full stack project for managing recipes. We can create recipes that have names and ingredients. We can also delete or edit each recipe.
+Full stack project for managing recipes. We can create, delete or edit recipes that have names and ingredients.
 
 ![Recipe Box](./mockup/recipe-box.png)
 
