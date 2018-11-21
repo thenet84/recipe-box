@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
+    "client-install": "npm install --prefix client",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "mocha --timeout 10000"
   },
   "author": "Denet",
@@ -18,6 +21,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.2.0",
+    "concurrently": "^4.1.0",
     "mocha": "^5.2.0",
     "nodemon": "^1.18.6"
   }
