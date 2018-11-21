@@ -86,6 +86,6 @@ Twitter: [@DenetIglesias]
    [Mocha]: <https://mochajs.org/>
    [Chai]: <https://www.chaijs.com/>
    [Jest]: <https://jestjs.io/>
-   [@DenetIglesias]:
+   [@DenetIglesias]: <https://twitter.com/DenetIglesias>
 
 
