@@ -74,7 +74,8 @@ ISC
 
 ---
 
-LinkedIn: www.linkedin.com/in/deiglesias
+LinkedIn: www.linkedin.com/in/deiglesias 
+
 Twitter: @DenetIglesias
 
    [Node.js]: <http://nodejs.org>
