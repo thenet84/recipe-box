@@ -76,7 +76,7 @@ ISC
 
 LinkedIn: www.linkedin.com/in/deiglesias 
 
-Twitter: @DenetIglesias
+Twitter: @DenetIglesias(https://twitter.com/DenetIglesias)
 
    [Node.js]: <http://nodejs.org>
    [express]: <http://expressjs.com>
